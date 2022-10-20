@@ -15,12 +15,12 @@
                     Logo
                 </div>
                 <div class="searchbox">
-                    Search
+                    Search1
                 </div>
             </section>
             <section class="menu-area">
                 <nav class="main-menu">
-                    Menu2
+                    Menu
                 </nav>
             </section>
         </header>
