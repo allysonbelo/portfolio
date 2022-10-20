@@ -20,7 +20,7 @@
             </section>
             <section class="menu-area">
                 <nav class="main-menu">
-                    Menu
+                    Menu2
                 </nav>
             </section>
         </header>
